@@ -27,7 +27,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 30px;
+    gap: 25px;
     flex-direction: column;
     width: 410px;
     background: var(---darkGrey);
@@ -44,7 +44,7 @@ body{
 }
 .name{
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 2.2rem;
 }
 .address{
     font-size: 1rem;
